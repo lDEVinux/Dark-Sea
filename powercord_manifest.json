@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "author": "RootPSWD",
+    "name": "Sea Green",
+    "description": "A smooth, Blue, and Green theme.",
+    "license": "Unlicensed",
+    "theme": "theme.scss"
+}
