@@ -6,7 +6,7 @@ https://replugged.dev/install?url=https://github.com/lDEVinux/Sea-Green
 
 *or*
 
-Go into your powercord/themes folder in your Terminal and run this command:
+Go into your themes folder in your Terminal and run this command:
 
 ```git clone https://github.com/lDEVinux/Sea-Green```
 
