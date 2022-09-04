@@ -1,5 +1,5 @@
-# Sea-Green
-Repo for my Replugged theme, Sea Green.
+# Dark Sea
+A sea dark theme for Replugged based on: https://www.schemecolor.com/dark-sea.php
 
 # Install:
 https://replugged.dev/install?url=https://github.com/lDEVinux/Sea-Green
