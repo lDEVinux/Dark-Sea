@@ -1,8 +1,8 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "author": "RootPSWD",
-    "name": "Sea Green",
-    "description": "A smooth, Blue, and Green theme.",
+    "name": "Dark-Sea",
+    "description": "A Dark Sea color Theme.",
     "license": "Unlicensed",
     "theme": "theme.scss"
 }
