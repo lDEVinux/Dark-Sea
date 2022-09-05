@@ -56,13 +56,20 @@ Base: @LuckFire#4800
 
 .container-YkUktl {
   background-color: #051020;
-  border-radius: 20px !important;
+  border-radius: 22px !important;
   margin: 3px;
 }
 .panels-3wFtMD {
 background-color: #061428;
 }
 .flex-2S1XBF {
-  right: 6px;
+  right: 7px;
   position: relative;
+  border-radius: 20px;
+}
+
+.root-g14mjS,
+.flex-2S1XBF,
+.message-G6O-Wv  {
+background-color: #071932 !important;
 }
