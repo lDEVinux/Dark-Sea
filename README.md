@@ -12,4 +12,4 @@ Go into your themes folder in your Terminal and run this command:
 
 # Preview
 
-![Preview-Friends](https://user-images.githubusercontent.com/111301070/188231546-a5cd2802-b9bb-4ed3-8118-14301aa74d46.png)
+![Preview-Friends](https://user-images.githubusercontent.com/111301070/188498542-4dc41b2d-57dc-4612-a15c-97cc718f2174.png)
