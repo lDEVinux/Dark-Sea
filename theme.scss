@@ -56,7 +56,7 @@ Base: @LuckFire#4800
 
 .container-YkUktl {
   background-color: #051020;
-  border-radius: 22px !important;
+  border-radius: 22px;
   margin: 3px;
 }
 .panels-3wFtMD {
@@ -71,5 +71,8 @@ background-color: #061428;
 .root-g14mjS,
 .flex-2S1XBF,
 .message-G6O-Wv  {
-background-color: #071932 !important;
+background-color: #071932;
+}
+.button-f2h6uQ {
+background-color: transparent !important;
 }
